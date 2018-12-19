@@ -19,3 +19,7 @@ Unit Test
 
 #### CodeSandBox Sample Link 
 [Create React Starter Kit](https://codesandbox.io/s/x9x99m9w34)
+
+
+#### Having an issue or problem, and suggestion?
+[Open an Issue](https://github.com/josecarlosanpedro/Create-React-Starter-Kit/issues)
