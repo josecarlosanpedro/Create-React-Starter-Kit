@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Route, Switch } from "react-router-dom";
-import Main from "../Modules/Main";
-import Home from "../Modules/Home";
+import Main from "../modules/Main";
+import Home from "../modules/Home";
 
 class Routes extends Component {
   render() {
